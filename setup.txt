@@ -1,0 +1,6 @@
+giấy phép: 49c26655fe55484e8df51fc86607931b
+
+=khi bạn install xong hãy vào instal.lock thay đổi fase thành true
+-hãy thêm câu lệnh này vào dòng đầu tiên của domain/index.php 
+          
+<?php require_once('anti-ddos.php'); ?>
