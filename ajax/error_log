@@ -1,0 +1,5 @@
+[26-Dec-2023 10:56:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strlen() in /home/gdemodailycodevn/public_html/conf/common.php:205
+Stack trace:
+#0 /home/gdemodailycodevn/public_html/ajax/comments.php(49): CheckNameCmt('Pham Nam')
+#1 {main}
+  thrown in /home/gdemodailycodevn/public_html/conf/common.php on line 205
